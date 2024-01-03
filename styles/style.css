@@ -1,0 +1,23 @@
+header{
+    height: 200px;
+   border-radius: 10px;
+   box-shadow: 13px 13px 13px saddlebrown;
+    background-image: url("https://media.istockphoto.com/id/664624206/photo/cool-grandma-havinga-a-drink.jpg?s=612x612&w=is&k=20&c=FImgtlrXQhR-d6hQkCu4c464mkqymjUY6C6Dy-GILEY=");
+    /* background-repeat: no-repeat; 
+    stop repeating image*/
+    background-size: cover;
+    
+}
+
+.blog{
+    text-shadow: 10px 10px 10px;
+    background-color: bisque;
+    border: 20px solid rgba(155, 43, 43, 0.47);
+    box-shadow: 10px 10px 10px slategrey;
+    border-radius: 10px;
+    text-align:justify ;
+    margin: 15px;
+    padding: 10px;
+    max-width: 90%;
+    max-height: max-content;
+}
